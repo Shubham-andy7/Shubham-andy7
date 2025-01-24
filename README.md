@@ -1,55 +1,99 @@
-# Hi there, I'm Shubham Kulkarni! 👋
 
-### 👨‍💻 About Me
-I'm a Software Development Engineer at **Cantonica**, where I specialize in building scalable systems and real-time data processing platforms. With a Master’s degree in Computer Science from **Stevens Institute of Technology** and hands-on experience in cutting-edge technologies, I aim to solve complex challenges and deliver impactful solutions.
-
----
-
-### 🚀 Skills
-- **Programming Languages:** Python, Java, Golang, R, TypeScript, React, C/C++
-- **Databases:** MongoDB, MySQL, PostgreSQL, Snowflake, Microsoft SQL Server
-- **Cloud Platforms:** GCP (BigQuery, Dataflow, Composer), Microsoft Azure (Synapse, Data Factory), AWS (S3, Lambda, Athena)
-- **Frameworks & Tools:** Flask, Apache Spark, Kafka, TensorFlow, PyTorch, Hugging Face, LangChain, Docker, Kubernetes, CI/CD
-- **Certifications:** 
-  - [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/ShubhamSachinKulkarni-0273/CB714DDD08954473?sharingId=BFF6CFEF73BFBAA1)
-  - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-gb/users/shubhamsachinkulkarni-0273/credentials/885dcac017ee344c)
+# Hi, I'm Shubham Kulkarni! 👋  
+🚀 **Building scalable systems and driving data-powered insights.**
 
 ---
 
-### 💼 Work Experience
-- **Software Development Engineer | Cantonica | New York, NY**
-  - Built a **real-time event processing system**, capturing over 10k+ user interactions monthly to improve personalization and engagement.
-  - Designed an **app-recommendation system** that increased user engagement by 20%.
-  - Integrated Apache Kafka and MongoDB to ensure **99.9% uptime** and reduced query latency by 35%.
+![Coding Animation](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
-- **Data Engineer | Datametica Solutions Pvt. Ltd. | Pune, India**
-  - Engineered a **Flask-based ingestion framework**, improving migration efficiency by 40%.
-  - Automated DAG generation for GCP's Cloud Composer, optimizing pipeline orchestration.
-  - Developed a synthetic data generator producing 500+ GB monthly datasets.
-
-- **Machine Learning Engineer | Q.I. Square Pvt. Ltd. | Remote**
-  - Analyzed 5+ years of energy data to forecast savings with **95% precision** using ML models.
+## 💡 About Me  
+- 🧠 **Problem Solver**: Passionate about real-time systems and machine learning applications.  
+- 🌟 **Tech Enthusiast**: Always exploring cutting-edge tools and technologies.  
+- 🌐 **Collaborator**: Love working in dynamic teams to deliver impactful solutions.
 
 ---
 
-### 📂 Projects
-- [**Real-Time Event Processing**](https://github.com/Shubham-andy7/realtime-event-processing)  
-  Leveraged **Kafka**, **MongoDB**, and **PySpark** to process and analyze 1,000+ events/sec for better user insights.
+## 🛠️ Skills Overview
 
-- [**YouTube Data Analysis**](https://github.com/Shubham-andy7/YouTube_Analysis_AWS)  
-  Built an **ETL pipeline** to process 50k+ records/day with AWS tools like Athena, Lambda, and S3.
-
-- [**AI Interactive Learning Framework**](https://github.com/Shubham-andy7/NOW-YOU-KNOW-AI-HACKATHON)  
-  Developed an adaptive AI-driven platform using **Fetch.AI**, **Claude API**, and **OpenAI**.
+| **Languages**   | **Frameworks**     | **Tools**         | **Cloud Platforms** |
+|------------------|--------------------|-------------------|---------------------|
+| Python, Java     | Flask, React       | Docker, Airflow   | AWS, Azure, GCP     |
+| Golang, C++      | TensorFlow, PyTorch| Kubernetes, CI/CD | MongoDB, PostgreSQL |
 
 ---
 
-### 📊 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-andy7&show_icons=true&theme=radical)
+## 🌟 Featured Projects
+
+### **Real-Time Event Processing System**  
+[🔗 GitHub Repo](https://github.com/Shubham-andy7/realtime-event-processing)  
+- Captured **10k+ website interactions monthly** for enhanced personalization.  
+- Built with **Kafka, MongoDB, PySpark, and Flask** for scalability and 99.9% uptime.  
+
+```mermaid
+graph LR
+A[User Interaction] -->|Event Trigger| B[Apache Kafka]
+B --> C[PySpark Processing]
+C --> D[MongoDB]
+D -->|Analytics| E[Recommendation Engine]
+```
 
 ---
 
-### 🌟 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/shubham-kulkarni)
-- [GitHub](https://github.com/Shubham-andy7)
-- [Email](mailto:shubhamk1805@gmail.com)
+### **YouTube Data Analysis with AWS**  
+[🔗 GitHub Repo](https://github.com/Shubham-andy7/YouTube_Analysis_AWS)  
+- Designed an **ETL pipeline** to process **50,000+ daily records**.  
+- Leveraged **AWS Athena, Lambda, S3**, and QuickSight for dashboards.
+
+---
+
+### **AI Interactive Learning Framework**  
+[🔗 GitHub Repo](https://github.com/Shubham-andy7/NOW-YOU-KNOW-AI-HACKATHON)  
+- Developed an AI-driven platform using **Fetch.AI**, **Claude API**, and **OpenAI APIs**.
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-andy7&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-andy7&theme=radical" height="180em" />
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+### Certifications  
+- **Microsoft Certified: Azure Data Engineer Associate**  
+- **Microsoft Certified: Azure Fundamentals**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure-Data%20Engineer-blue?style=for-the-badge&logo=microsoft-azure">
+  <img src="https://img.shields.io/badge/Azure-Fundamentals-blueviolet?style=for-the-badge&logo=microsoft-azure">
+</div>
+
+### Achievements  
+- 🥋 Represented **India internationally** in martial arts.  
+- 🏅 State and national sports champion in **volleyball, wrestling, judo, and more**.
+
+---
+
+## 🌱 Currently Exploring  
+- **Real-Time Data Systems**: Optimizing performance and scalability.  
+- **Advanced AI Models**: Tools like **Hugging Face**, **LangChain**, and cutting-edge NLP.
+
+---
+
+## 🤝 Let’s Connect  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shubham-kulkarni">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:shubhamk1805@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Shubham-andy7">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</div>
