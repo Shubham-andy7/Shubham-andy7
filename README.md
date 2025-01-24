@@ -52,7 +52,7 @@ D -->|Analytics| E[Recommendation Engine]
 
 ---
 
-## 📊 GitHub Stats  
+<!-- ## 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubham-andy7&show_icons=true&theme=radical" height="180em" />
@@ -60,6 +60,7 @@ D -->|Analytics| E[Recommendation Engine]
 </div>
 
 ---
+-->
 
 ## 🏆 Certifications & Achievements
 
