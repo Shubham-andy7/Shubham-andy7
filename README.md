@@ -4,7 +4,7 @@
 
 ---
 
-![Coding Animation](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 💡 About Me  
 - 🧠 **Problem Solver**: Passionate about real-time systems and machine learning applications.  
